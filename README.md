@@ -25,3 +25,4 @@ build command for past version(requires NASM) : nasm -f bin [asm-file name].asm 
 
 
 
+tip: perpavus is latin word means "so tiny" or "so small"
